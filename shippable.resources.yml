@@ -3,7 +3,7 @@ resources:
     type: gitRepo
     integration: shiphitchcock4-github
     pointer:
-      sourceName: shiphitchcock4/samplePhp
+      sourceName: shiphitchcock4/sampleNod
      # branch: master
       
 #  - name: new-image1
