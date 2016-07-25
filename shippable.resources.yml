@@ -1,5 +1,5 @@
 resources:
-  - name: sampletestRepo
+  - name: withoutbranchrepo
     type: gitRepo
     integration: shiphitchcock4-github
     pointer:
